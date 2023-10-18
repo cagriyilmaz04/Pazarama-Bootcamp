@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetTip</string>
+    <string name="basarili">Başarılı</string>
+    <string name="basarisiz">Başarısız</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_mail">Enter your mail</string>
+    <string name="enter_your_password">Enter your password</string>
+</resources>
